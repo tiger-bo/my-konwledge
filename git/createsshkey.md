@@ -1,6 +1,6 @@
-###create ssh-key
+### create ssh-key
 ssh-keygen -t rsa -C "your_email@youremail.com"
 
 
-###make sure
+### make sure
 ssh -T git@github.com
