@@ -3,7 +3,7 @@
 看官方的中文文档啊， 英语菜鸡  哎～～
 
 
-###看到这定制模块的时候很有意思啊
+### 看到这定制模块的时候很有意思啊
 `Python 为你提供两个钩子 (hook) 来定制交互环境: sitecustomize 和 usercustomize. 要知道它如何工作, 你需要先找到你的 user site-package 目录的位置. 打开 Python 并运行这段代码:`
 ```
 >>> import site
@@ -45,7 +45,7 @@ bo@bo-PC:~/python3_test$
 ```
 
 
-#简直是惊喜啊
+# 简直是惊喜啊
 
 
 接着看了 ～～
